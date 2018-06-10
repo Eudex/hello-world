@@ -1,2 +1,2 @@
 # hello-world
-Classic beginning
+Classic beginning becomes new again
